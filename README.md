@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goegrasu
 - 👀 I’m interested in PHP, NodeJS, React, Docker
 - 🌱 I’m currently learning K8s, skaffold, ingressnginx
-- 💞️ I’m looking to collaborate on PHP
+- 💞️ I’m looking to collaborate on PHP, on NodejS and React as second skills
 - 📫 How to reach me george.sirghe@yahoo.com
 
 <!---
